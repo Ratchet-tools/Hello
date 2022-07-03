@@ -30,7 +30,7 @@ public final class Hello extends HttpServlet
         writer.println("</td>");
         writer.println("</tr>");
         writer.println("</table>");
-        writer.println("</body>");
+        writer.println("</body>")
         writer.println("</html>");
     }
 }
